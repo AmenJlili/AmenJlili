@@ -3,7 +3,7 @@
 # Hi there, my name is Amen. 👋
 
 **SOLIDWORKS API Expert & Technical Founder at Blue Byte Systems Inc.**  
-_Vancouver, BC · CAD Automation · Engineering Workflows · .NET Development_
+_Vancouver, BC · CAD APIs ·SOLIDWORKS & PDM · Engineering Software Tools · .NET Development_
 
 ---
 
