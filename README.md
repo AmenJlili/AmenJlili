@@ -48,7 +48,7 @@ A batch utility for updating SOLIDWORKS sheet metal parameters such as bend radi
 ## Courses, Content, and Community
 
 - Course Author: Mastering the SOLIDWORKS API and SOLIDWORKS PDM Automation in VBA
-- Blog: [Blue Byte Blog](https://bluebyte.biz/solidworks-and-pdm-engineering-blogspots/) — articles on CAD automation, SOLIDWORKS API development, PDM workflows, performance, and best practices
+- Blog: [Blue Byte Blog](https://bluebyte.biz/blog/) — articles on CAD automation, SOLIDWORKS API development, PDM workflows, performance, and best practices
 - YouTube: [Blue Byte Systems Inc.](https://www.youtube.com/@BlueByteSystemsInc) — tutorials, technical walkthroughs, and API automation examples
 - Community Founder: [CADOverflow.com](https://cadoverflow.com) — a Q&A community for SOLIDWORKS API and CAD automation developers
 
